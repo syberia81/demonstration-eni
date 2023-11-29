@@ -1,5 +1,6 @@
 function hello() `{
-     console.log("Bonjour le monde");
+     console.log("Bonjour à #:wq
+     #le monde");
 }
 
 hello();
